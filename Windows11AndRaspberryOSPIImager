@@ -1,0 +1,8 @@
+Windows 11 Installation step by step following the link:https://www.youtube.com/watch?v=YvoX-IVzWaw
+In addition, install Raspberry OS through Raspberry Pi OS Imager found on the following link: https://www.raspberrypi.com/software/
+The raspberry instalaltion guide is found on the following link: https://www.youtube.com/watch?v=y45hsd2AOpw
+2021. 
+The goal is to place sensors and actuators on the raspberry or take advantage of the already built in in order to gather and collect data, set a case scanario scene for example, 
+for security purposes whilst communicating with a smart phone application and send notifications.
+The sensors placed on raspberry are placed through the pins in the pins accordingly based on the documentation. There's usually a ground a input power pin and the rest of the pins
+usually are in order to communicate the raspberry with the sensor as well as the data transferring. 
